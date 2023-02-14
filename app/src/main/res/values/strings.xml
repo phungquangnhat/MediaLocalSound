@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Media Local Sound</string>
+
+    <string-array name="ds_music">
+        <item>ca_phe_min</item>
+        <item>see_tinh</item>
+        <item>lie</item>
+        <item>vay_cuoi</item>
+        <item>cuoi_thoi</item>
+        <item>nhat</item>
+        <item>xe_dap</item>
+        <item>am_2</item>
+        <item>em_la_nhat_speed_up</item>
+        <item>young_captain</item>
+        <item>what_did_i_do</item>
+        <item>we_dont_talk_anymore</item>
+        <item>to_the_moon</item>
+        <item>so_far_away</item>
+        <item>skylar_grey</item>
+        <item>semantic_error</item>
+        <item>older</item>
+        <item>mashup_talkold_townroad_badguy</item>
+        <item>lovely</item>
+        <item>love_yourself</item>
+        <item>love_is_gone</item>
+        <item>like_my_father</item>
+        <item>its_you</item>
+        <item>it2002</item>
+        <item>heartbreak_anniversary</item>
+        <item>head_in_my_clouds</item>
+        <item>everything_i_need</item>
+        <item>dusk_till_down</item>
+        <item>double_take</item>
+        <item>dancing_with_your_ghost</item>
+        <item>arcade</item>
+    </string-array>
+    <string-array name="ds_gif">
+        <item>g1</item>
+        <item>g2</item>
+        <item>g3</item>
+        <item>g4</item>
+        <item>g5</item>
+        <item>g6</item>
+        <item>g7</item>
+        <item>g8</item>
+        <item>g9</item>
+        <item>g10</item>
+        <item>g11</item>
+        <item>g12</item>
+        <item>g13</item>
+        <item>g14</item>
+        <item>g15</item>
+        <item>g16</item>
+        <item>g17</item>
+        <item>g18</item>
+        <item>g19</item>
+        <item>g20</item>
+        <item>g21</item>
+        <item>g22</item>
+        <item>g23</item>
+        <item>gif</item>
+    </string-array>
+</resources>
